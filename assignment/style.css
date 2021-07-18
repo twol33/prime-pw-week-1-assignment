@@ -1,6 +1,51 @@
+body{
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzF_fUaXSTJivLGoMka_-XTzkQ9hB6avdBIEJ7pTdL53F-pjEBtA4wd-W5wjHQLKu0TrQCzCUO&usqp=CAc);
+  }
+
+.header h1{
+  text-align: center;
+  color: salmon;
+  font-size:
+  }
+
+.header{
+  background-color: black;
+  align-self: center;
+  }
+
+.image{
+  border-style: dashed;
+  border-width: 10px;
+  border-color: teal;
+  max-width: 350px;
+  max-height: 480px;
+  text-align: center;
+  }
+
+.image_1{
+  max-width: 350px;
+  max-height: 500px;
+  text-align: center;
+}
+
+.footer{
+  background-color: black;
+  }
+
+.footer p{
+  color: yellow;
+  font-style: italic
+  }
+
+.ff{
+  background-color: black;
+  color: white;
+  max-width: 600px;
+  font-family: monospace;
+  }
 /* Give your page a fun background color */
 
-/* Make the header and footer a different color from the background */
+/* Make th e header and footer a different color from the background */
 
 /* Align the h1 containing your name in the center of the header*/
 
